@@ -68,6 +68,7 @@ public class MainFrame extends JFrame implements ActionListener {
 	private JLabel baudrateLabel = new JLabel("波特率");
 	private JComboBox commChoice = new JComboBox();
 	private JComboBox baudrateChoice = new JComboBox();
+	
 
 	// 操作面板
 	private JPanel operatePanel = new JPanel();
